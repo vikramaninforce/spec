@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="09/24/2020 16:48:46">
+  <assembly name="C:\Users\varutche\source\repos\SpecFlowUiAutomation\SpecFlowUiAutomation\bin\Debug\netcoreapp3.1\SpecFlowUiAutomation.dll" run-date="2020-09-24" run-time="16:48:46" total="2" passed="2" failed="0" skipped="0" time="17.168" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for SpecFlowUiAutomation.WikipediaTitleValidationFeature" time="17.168">
+      <test name="Validate Apple's Title" type="SpecFlowUiAutomation.WikipediaTitleValidationFeature" method="ValidateApplesTitle" time="10.2492113" result="Pass">
+        <output>Given I have navigated to the "Apple" page on Wikipedia
+-&gt; done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Apple") (6.2s)
+Then the title of the page should be "Apple - Wikipedia"
+-&gt; done: WikipediaTitleValidationSteps.ThenTheTitleOfThePageShouldBe("Apple - Wikipedia") (0.0s)
+
+</output>
+        <traits>
+          <trait name="FeatureTitle" value="Wikipedia Title Validation" />
+          <trait name="Description" value="Validate Apple's Title" />
+        </traits>
+      </test>
+      <test name="Validate Google's Title" type="SpecFlowUiAutomation.WikipediaTitleValidationFeature" method="ValidateGooglesTitle" time="6.9189976" result="Pass">
+        <output>Given I have navigated to the "Google" page on Wikipedia
+-&gt; done: WikipediaTitleValidationSteps.GivenIHaveNavigatedToThePageOnWikipedia("Google") (3.9s)
+Then the title of the page should be "Google - Wikipedia"
+-&gt; done: WikipediaTitleValidationSteps.ThenTheTitleOfThePageShouldBe("Google - Wikipedia") (0.3s)
+
+</output>
+        <traits>
+          <trait name="FeatureTitle" value="Wikipedia Title Validation" />
+          <trait name="Description" value="Validate Google's Title" />
+        </traits>
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

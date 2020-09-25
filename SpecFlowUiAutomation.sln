@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowUiAutomation", "SpecFlowUiAutomation\SpecFlowUiAutomation.csproj", "{089BC930-1554-4344-BC8A-510461738009}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D2C0C7F4-93A8-4C4B-8E65-D1D9F94FB868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089BC930-1554-4344-BC8A-510461738009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089BC930-1554-4344-BC8A-510461738009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089BC930-1554-4344-BC8A-510461738009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089BC930-1554-4344-BC8A-510461738009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C64EB1A5-3A52-4E91-BE14-C5673E34109A}
+	EndGlobalSection
+EndGlobal
